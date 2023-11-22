@@ -1,9 +1,7 @@
 
-# Documentação da Lista Duplamente Encadeada
+# Documentação da Lista Duplamente Encadeada 
 
 A classe `DoublyLinkedList` representa uma lista duplamente encadeada que armazena elementos do tipo `Node`. Cada nó contém um valor sequencial e é conectado aos nós anterior e posterior na lista.
-
-## Métodos
 
 ### add(Node node)
 
@@ -66,3 +64,9 @@ Mostra o valor do último nó (tail) da lista.
 Verifica se o valor especificado existe na lista.
 
 **Observação**: Os métodos `showListInOrder`, `showListInOrderReverse`, `size`, `isEmpty`, `showHead`, `showTail`, e `search` são métodos de consulta que não modificam a estrutura da lista.
+
+# Clonagem do Repositório
+
+Para clonar este repositório, utilize o comando `git clone` seguido da URL do repositório. Abaixo está o comando que você pode usar para clonar o repositório:
+
+`git clone https://github.com/KelltonHamaia/doubly-linked-list.git` 
