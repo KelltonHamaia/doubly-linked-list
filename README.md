@@ -71,4 +71,4 @@ Verifica se o valor especificado existe na lista.
 
 Para clonar este repositório, utilize o comando `git clone` seguido da URL do repositório. Abaixo está o comando que você pode usar para clonar o repositório:
 
-`git clone https://github.com/KelltonHamaia/doubly-linked-list.git` 
+`git clone https://github.com/KelltonHamaia/doubly-linked-list` 
