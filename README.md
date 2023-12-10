@@ -3,6 +3,8 @@
 
 A classe `DoublyLinkedList` representa uma lista duplamente encadeada que armazena elementos do tipo `Node`. Cada nó contém um valor sequencial e é conectado aos nós anterior e posterior na lista.
 
+## Estes são os métodos implementados na classe DoublyLinkedList
+
 ### add(Node node)
 
 Adiciona um valor sequencial à lista.
